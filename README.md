@@ -24,6 +24,7 @@ This repository contains a Streamlit-based biomedical image analysis app develop
 📄 stpcm.py     ← Streamlit app  
 📄 README.md    ← This file  
 
+🚀 How to Run
 ```bash
 streamlit run stpcm.py
 ```
