@@ -17,3 +17,9 @@ This repository contains a Streamlit-based biomedical image analysis app develop
 ✅ Per-cell ratio analysis and HER2 status classification (Positive / Equivocal / Negative)
 
 ✅ Interactive visualizations: bounding boxes, centroids, signal overlays
+
+📂 FISH/        ← Raw FISH test images  
+📂 DISH/        ← Raw DISH test images  
+📂 REF_FISH/    ← Ground truth for evaluation  
+📄 stpcm.py     ← Streamlit app  
+📄 README.md    ← This file  
