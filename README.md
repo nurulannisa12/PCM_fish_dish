@@ -1,4 +1,5 @@
 # PCM_fish_dish
+🎯 FISH & DISH Signal Analysis App – HER2/CEN17 Segmentation and Classification
 This repository contains a Streamlit-based biomedical image analysis app developed for final project in Pattern Classification and Matching (PCM). The app provides end-to-end segmentation and classification of HER2/CEN17 signals on FISH and DISH microscopic images, supporting digital pathology workflows.
 
 🔬 Main Features:
@@ -18,11 +19,13 @@ This repository contains a Streamlit-based biomedical image analysis app develop
 
 ✅ Interactive visualizations: bounding boxes, centroids, signal overlays
 
+```bash
 📂 FISH/        ← Raw FISH test images  
 📂 DISH/        ← Raw DISH test images  
 📂 REF_FISH/    ← Ground truth for evaluation  
 📄 stpcm.py     ← Streamlit app  
 📄 README.md    ← This file  
+```
 
 🚀 How to Run
 ```bash
