@@ -23,3 +23,8 @@ This repository contains a Streamlit-based biomedical image analysis app develop
 📂 REF_FISH/    ← Ground truth for evaluation  
 📄 stpcm.py     ← Streamlit app  
 📄 README.md    ← This file  
+
+```bash
+streamlit run stpcm.py
+```
+
